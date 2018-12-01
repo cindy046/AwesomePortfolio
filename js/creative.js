@@ -85,7 +85,7 @@
       preload: [0, 1]
     },
     image: {
-      tError: '<a href="%url%">#%curr%</a> click here.'
+      tError: '<a href="%url%">#%curr%</a> LIVE WEBSITE :CLICK HERE! .'
     }
   });
 

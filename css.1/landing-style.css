@@ -1,4 +1,4 @@
-
+/* NOT IN USE - FOR STARVING ARTIST WEBSITE  */
  /* Add a gray background color and some padding to the footer */
 .footer {
   background-color: #1b1919;
@@ -10,6 +10,8 @@
   color: white;
   text-align: center;
 }
+
+
 		.block {
 			border-style: solid;
 			border-width: thick;
